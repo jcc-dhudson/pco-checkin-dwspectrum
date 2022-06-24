@@ -10,3 +10,9 @@ This script collects check-ins from Planning Center Online for specified locatio
 ## Usage
 * Call the script and pass locations and DW Spectrum camera UUID as arguments, example: `python checkin-dwspectrum.py 123456,654321 1234ABCD-0987-4321-1234-123ABC678456`
 * Or if running from cron, use a script such as the example script named example-run-script.sh
+
+## Links
+* Planning Center Online: https://www.planningcenteronline.com/
+* Planning Center Online API Documentation: https://api.planningcenteronline.com/
+* Ticket to request webhooks for Check-Ins: https://github.com/planningcenter/developers/issues/998
+* libpcocheckin project: https://github.com/jcc-dhudson/libpcocheckin
