@@ -13,6 +13,7 @@ This script collects check-ins from Planning Center Online for specified locatio
 
 ## Links
 * Planning Center Online: https://www.planningcenteronline.com/
+* DW Spectrum VMS: https://dwspectrum.com/
 * Planning Center Online API Documentation: https://api.planningcenteronline.com/
 * Ticket to request webhooks for Check-Ins: https://github.com/planningcenter/developers/issues/998
-* libpcocheckin project: https://github.com/jcc-dhudson/libpcocheckin
+* libpcocheckin project: https://github.com/jcc-dhudson/libpcocheckin 
