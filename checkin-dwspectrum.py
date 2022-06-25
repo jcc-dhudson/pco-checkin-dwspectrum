@@ -83,8 +83,8 @@ for checkin in checkins:
     url += '&tag=pco_checkin'
     url += '&cameraId=' + DW_CAMERA_ID 
     url += '&guid=' + str(uuid.uuid4())
-    #logger(f"   {url}")
-    #requests.get(url)
+    logger(f"   {url}")
+    requests.get(url)
     complete.append(checkin['id'])
 
 s['complete'] = complete
